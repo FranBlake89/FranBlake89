@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
    <i>(Sp)</i>
-   <i>  (En)</i>
+   <i>       (En)</i>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
