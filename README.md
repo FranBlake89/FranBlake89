@@ -25,12 +25,9 @@ Here are some ideas to get you started:
 <p align="left">
  
 <a href="https://es.stackoverflow.com/users/207561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="207561" height="30" width="40" /></a>
- 
- <a href="https://stackoverflow.com/users/15246430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15246430" height="30" width="40" /></a>
- 
- <a href="https://www.hackerrank.com/@castillor_franc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@castillor_franc1" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15246430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15246430" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@castillor_franc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@castillor_franc1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/blake_176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blake_176" height="30" width="40" /></a>
- 
 </p>
 <p align="left">
    <i>(Sp)</i>
