@@ -31,18 +31,8 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
    <i>(Sp)</i>
-  <i>(En)</i>
+   <i>  (En)</i>
 </p>
-
-<p align="left">
-<a href="https://stackoverflow.com/users/207561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="207561" height="30" width="40" /></a>
-<a href="https://instagram.com/dddsdsds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dddsdsds" height="30" width="40" /></a>
-
-</p>
-
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
