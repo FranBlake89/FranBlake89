@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/blake_176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blake_176" height="30" width="40" /></a>
 </p>
 <p align="left">
-   <i>(Sp)</i>
+   <i>(Sp)   </i>
    <i>       (En)</i>
 </p>
 
