@@ -1,4 +1,4 @@
-### Hi there 👋
+🔭 *"Knowledge becomes really such only when it is assimilated in the mind of the learner and shows in his character."*
 
 <!--
 **FranBlake89/FranBlake89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
