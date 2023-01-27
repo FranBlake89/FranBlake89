@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there👋, I'm Francisco Castillo</h1>
-<h3 align="center">A Passionate student of computer programming, aspiring frontend developer. I have a background in Agricultural Engineering and assistant researcher in evolutionary ecology in Chile.</h3>
+<h3 align="center">A Passionate student of computer programming, aspiring full stack developer. I have a background in Agricultural Engineering and assistant researcher in evolutionary ecology in Chile.</h3>
 
 - 🌱 I’m currently learning **React native, python**
 
