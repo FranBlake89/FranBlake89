@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there👋, I'm Francisco Castillo</h1>
-<h3 align="center">A Passionate student of computer programming, aspiring full stack developer. I have a background in Agricultural Engineering and assistant researcher in evolutionary ecology in Chile.</h3>
+<h3 align="center">I'm a computer programming student who loves to learn new technologies and create web applications. I have a degree in Agricultural Engineering and experience as an assistant researcher in evolutionary ecology in Chile.</h3>
 
-- 🌱 I’m currently learning **React native, Android (JAVA)**
-- 👯 I’m looking for an **intern position**, to improve my skills as programmer.
+- 👯 I’m interested in collaborating on **open source projects** that can make a positive impact on the world.
+- 👯 I’m seeking an **internship opportunity** where I can apply my programming skills and learn from experienced developers.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
