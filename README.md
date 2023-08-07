@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m interested in collaborating on **open source projects** that can make a positive impact on the world.
 - 👯 I’m seeking an **internship opportunity** where I can apply my programming skills and learn from experienced developers.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My humble contribution to help others:</h3>
 <p align="left">
  
 <a href="https://es.stackoverflow.com/users/207561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="207561" height="30" width="40" /></a><i>(Spanish)</i> 
