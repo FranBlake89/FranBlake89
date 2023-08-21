@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">👋, I'm Francisco Castillo</h1>
 <h2 align="center"><i>From seeds to code: a programmer with a green thumb</i></h2>
 I’m a computer programming student who loves to learn new technologies and create web applications. I have a degree in agricultural engineering 🌱 and experience as an assistant researcher in evolutionary ecology 🐛 in Chile.
-
+<br />
 <div>
   <ul>
     <li>💻 I have built a library web application and a web API using Node.js, Express, MongoDB, and Bootstrap. I have also developed an assembly line simulation with C++.</li>
