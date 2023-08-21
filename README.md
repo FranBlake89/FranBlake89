@@ -31,11 +31,6 @@ I’m a computer programming student who loves to learn new technologies and cre
 
 👉 If you want to see more of my work, visit my **GitHub profile**. 👉 If you are interested in collaborating or hiring me, feel free to reach out to me on **LinkedIn**.
 
-- 💻 I’m a programming student who builds web apps with Node.js, Express, MongoDB, and Bootstrap. I also made an assembly line simulation with C++. I love web development for its impact on people’s lives. I learned Next.js and Python for Data Science, and I’m always curious to learn more.
-- 🌎 My goal is to code for **open source projects** and solve problems from the real world.
-- 🔭 I’m seeking an **internship opportunity** where I can apply my programming skills and learn from experienced developers.
-- 📫 You can reach me on my LinkedIn profile. Let’s connect! 😊
-
 <h3 align="left">My humble contribution to help others:</h3>
 <p align="left">
  
