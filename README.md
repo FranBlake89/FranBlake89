@@ -16,11 +16,25 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there👋, I'm Francisco Castillo</h1>
-<h3 align="center">I'm a computer programming student who loves to learn new technologies and create web applications. I have a degree in Agricultural Engineering and experience as an assistant researcher in evolutionary ecology in Chile.</h3>
+<h1 align="center">👋, I'm Francisco Castillo</h1>
+<h2 align="center"><i>From seeds to code: a programmer with a green thumb</i></h2>
+I’m a computer programming student who loves to learn new technologies and create web applications. I have a degree in agricultural engineering 🌱 and experience as an assistant researcher in evolutionary ecology 🐛 in Chile.
 
-- 👯 I’m interested in collaborating on **open source projects** that can make a positive impact on the world.
-- 👯 I’m seeking an **internship opportunity** where I can apply my programming skills and learn from experienced developers.
+<div>
+  <ul>
+    <li>💻 I have built a library web application and a web API using Node.js, Express, MongoDB, and Bootstrap. I have also developed an assembly line simulation with C++.</li>
+    <li>📚 I have completed courses on Next.js and Python for Data Science, and I’m always curious to learn more.</li>
+    <li>🌎 My goal is to code for open source projects and solve problems from the real world.</li>
+   <li>🔭 I’m seeking an internship opportunity where I can apply my programming skills and learn from experienced developers.</li>
+  </ul>
+</div>
+
+👉 If you want to see more of my work, visit my **GitHub profile**. 👉 If you are interested in collaborating or hiring me, feel free to reach out to me on **LinkedIn**.
+
+- 💻 I’m a programming student who builds web apps with Node.js, Express, MongoDB, and Bootstrap. I also made an assembly line simulation with C++. I love web development for its impact on people’s lives. I learned Next.js and Python for Data Science, and I’m always curious to learn more.
+- 🌎 My goal is to code for **open source projects** and solve problems from the real world.
+- 🔭 I’m seeking an **internship opportunity** where I can apply my programming skills and learn from experienced developers.
+- 📫 You can reach me on my LinkedIn profile. Let’s connect! 😊
 
 <h3 align="left">My humble contribution to help others:</h3>
 <p align="left">
