@@ -67,12 +67,6 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
   </a>
 </p>
 
-## 📞 Let's Connect
- 
-👉 If you want to see more of my work, go to pinned projects bellow.
-
-👉 If you are interested in collaborating or hiring me, feel free to reach out to me on 📫 [LinkedIn](https://www.linkedin.com/in/francisco-castillo-r/).
-
 ## 🏆 Recognitions
 
 - **Ji Hun Kim Memorial Scholarship - 2023**
