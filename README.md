@@ -1,35 +1,19 @@
 🔭 *"Knowledge becomes really such only when it is assimilated in the mind of the learner and shows in his character."*
 
-<!--
-**FranBlake89/FranBlake89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <h1 align="center">👋, I'm Francisco Castillo</h1>
-<h2 align="center"><i>From seeds to code: a programmer with a green thumb</i></h2>
-I’m a computer programming student who loves to learn new technologies and create web applications. I have a degree in agricultural engineering 🌱 and experience as an assistant researcher in evolutionary ecology 🐛 in Chile.
-<br />
-<div>
-  <ul>
-    <li>💻 I have built a library web application and a web API using Node.js, Express, MongoDB, and Bootstrap. I have also developed an assembly line simulation with C++.</li>
-    <li>📚 I have completed courses on Next.js and Python for Data Science, and I’m always curious to learn more.</li>
-    <li>🌎 My goal is to code for open source projects and solve problems from the real world.</li>
-   <li>🔭 I’m seeking an internship opportunity where I can apply my programming skills and learn from experienced developers.</li>
-  </ul>
-</div>
+<h2 align="center">*From seeds to code: a programmer with a green thumb*</h2>
 
-👉 If you want to see more of my work, visit my **GitHub profile**. 👉 If you are interested in collaborating or hiring me, feel free to reach out to me on **LinkedIn**.
+I’m a computer programming student who loves to learn new technologies and create web applications. I have a degree in agricultural engineering 🌱 and experience as an assistant researcher in evolutionary ecology 🐛 in Chile.
+
+- 💻 I have built a library web application and a web API using Node.js, Express, MongoDB, and Bootstrap. I have also developed an assembly line simulation with C++.
+- 📚 I have completed courses on Next.js and Python for Data Science, and I’m always curious to learn more.
+- 🌎 My goal is to code for open source projects and solve problems from the real world.
+- 🔭 I’m seeking an internship opportunity where I can apply my programming skills and learn from experienced developers.
+
+
+👉 If you want to see more of my work, visit my **GitHub profile**. 
+👉 If you are interested in collaborating or hiring me, feel free to reach out to me on 📫 [LinkedIn](https://www.linkedin.com/in/francisco-castillo-r/).
 
 <h3 align="left">My humble contribution to help others:</h3>
 <p align="left">
@@ -39,6 +23,8 @@ I’m a computer programming student who loves to learn new technologies and cre
 <a href="https://stackoverflow.com/users/15246430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15246430" height="30" width="40" /></a><i>(English)</i>
 
 <h3 align="left">Languages and Tools:</h3>
+![NodeJS](https://github.com/FranBlake89/FranBlake89/assets/73005797/3a1c3214-9ecd-4d29-bdc3-a659a2f3fab2)
+
 <p align="left"> 
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> 
