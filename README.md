@@ -79,23 +79,6 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
 
 👉 If you are interested in collaborating or hiring me, feel free to reach out to me on 📫 [LinkedIn](https://www.linkedin.com/in/francisco-castillo-r/).
 
-## 🎯 Skills That Set Me Apart
-
-### Languages / Frameworks
-JavaScript, C/C++, Python, HTML, CSS, Node.js, Express.js, Android, Java
-
-### Web Development
-HTML, CSS, React.js, Express.js, Node.js, RESTful APIs, XML, AJAX, Bootstrap, React Bootstrap, Material UI
-
-### Database Technologies
-Oracle SQL, MongoDB, PostgreSQL, PL/SQL
-
-### Other Skills
-Data Structures and Algorithms, SDLC, Object-Oriented Programming & Functional Programming, MVC Design, Computer Networking, UML, Linux Terminal, Bash Scripting, IT Project Management, MS Project, MS Office 365, Unix, Linux
-
-### Soft Skills
-Team Player, Critical Thinking, Problem Solving, Continuous Learning
-
 ## 🏆 Recognitions
 
 - **Ji Hun Kim Memorial Scholarship - 2023**
