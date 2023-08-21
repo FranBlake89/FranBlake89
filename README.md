@@ -50,13 +50,36 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
 </p>
- ## 📞 Let's Connect
+
+## 📞 Let's Connect
  
 👉 If you want to see more of my work, visit my **GitHub profile**.
 
 👉 If you are interested in collaborating or hiring me, feel free to reach out to me on 📫 [LinkedIn](https://www.linkedin.com/in/francisco-castillo-r/).
- ## 🎯 Skills That Set Me Apart
+
+## 🎯 Skills That Set Me Apart
 
 ### Languages / Frameworks
 JavaScript, C/C++, Python, HTML, CSS, Node.js, Express.js, Android, Java
