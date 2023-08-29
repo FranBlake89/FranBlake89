@@ -4,7 +4,9 @@
 ## 👋 Hey there, I'm Francisco Castillo
 ### 🌱 From Seeds to Code: Cultivating Technology and Growth 🌱
 
-Hello! I'm Francisco Castillo, a passionate computer programming student who finds joy in embracing new technologies and crafting web applications. With a background in agricultural engineering 🌱 and hands-on experience as an assistant researcher in evolutionary ecology 🐛 in Chile, I bring a unique blend of analytical thinking and creative problem-solving to the world of programming.
+Hello! I'm Francisco Castillo, a passionate computer programming student who finds joy in embracing new technologies and crafting web applications. 
+
+From sowing seeds in agricultural fields to cultivating code in the digital world, I'm on a journey of growth, learning, and contribution.
 
 ## 🌐 What I've Been Up To
 
@@ -66,12 +68,3 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 </p>
-
-## 🏆 Recognitions
-
-- **Ji Hun Kim Memorial Scholarship - 2023**
-  - Seneca College
-
-## 🌱 In Conclusion
-
-From sowing seeds in agricultural fields to cultivating code in the digital world, I'm on a journey of growth, learning, and contribution. If you're looking for a dedicated programmer with a passion for creating solutions and a knack for nurturing, connect with me. Let's work together to make ideas flourish and technology thrive.
