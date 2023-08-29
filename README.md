@@ -25,7 +25,7 @@ From sowing seeds in agricultural fields to cultivating code in the digital worl
 
 ## 🛠️ Languages and Tools I Embrace
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,cpp,c,androidstudio,mongodb,postgresql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,cpp,c,java,python,androidstudio,mongodb,postgresql,linux)](https://skillicons.dev)
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
