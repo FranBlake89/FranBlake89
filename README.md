@@ -24,7 +24,10 @@ From sowing seeds in agricultural fields to cultivating code in the digital worl
   - [Stack Overflow (English)](https://stackoverflow.com/users/15246430)
 
 ## 🛠️ Languages and Tools I Embrace
-<p align="left"> 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,cpp,c,android,mongodb,oraclesql,postgresql,linux)](https://skillicons.dev)
+
+/*<p align="left"> 
   <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/FranBlake89/FranBlake89/assets/73005797/f3bb4434-7087-42c6-8bdf-e0c2fe9960f4" alt="javascript" width="40" height="40"/> 
   </a>
@@ -70,4 +73,4 @@ From sowing seeds in agricultural fields to cultivating code in the digital worl
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
-</p>
+</p>*/
