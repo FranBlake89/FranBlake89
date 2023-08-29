@@ -25,6 +25,9 @@ From sowing seeds in agricultural fields to cultivating code in the digital worl
 
 ## 🛠️ Languages and Tools I Embrace
 <p align="left"> 
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/FranBlake89/FranBlake89/assets/73005797/f3bb4434-7087-42c6-8bdf-e0c2fe9960f4" alt="javascript" width="40" height="40"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
