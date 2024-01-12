@@ -5,13 +5,6 @@
 
 Hello! I'm Francisco Castillo, a passionate computer programming student who finds joy in embracing new technologies and crafting web applications. 
 
-🌱 From sowing seeds in agricultural fields to cultivating code in the digital world, I'm on a journey of growth, learning, and contribution.🌱
-
-## 🌐 What I've Been Up To
-
-- 🌎 My goal is to code for open source projects and solve problems from the real world.
-- 🔭 I’m seeking an internship opportunity where I can apply my programming skills and learn from experienced developers.
-
 ## 📚 Sharing knowledge 
 
  I enjoy giving back to the community by offering assistance on technical forums:
