@@ -31,7 +31,7 @@ Check out my contributions on **Stack Overflow**:
 
 [![Cloud Tech](https://skillicons.dev/icons?i=aws,gcp,cloudflare,nginx,linux,ubuntu,git)](https://skillicons.dev)
 
-## 📊 Data Tools
+## 📊 Data Science and Analytics Tools
 Data analysis and management are key aspects of my work:
 
 [![Cloud Tech](https://skillicons.dev/icons?i=anaconda,elasticsearch,latex,regex,sklearn)](https://skillicons.dev)
