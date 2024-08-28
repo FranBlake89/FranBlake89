@@ -9,16 +9,16 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
 
  I enjoy giving back to the community by offering assistance on technical forums:
  
-- Check out my contributions on **Stack Overflow**:
-  - [![stackOverflow](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://skillicons.dev) [Stack Overflow (Spanish)](https://es.stackoverflow.com/users/207561)
-  - [![stackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev) [Stack Overflow (English)](https://stackoverflow.com/users/15246430)
+Check out my contributions on **Stack Overflow**:
+ - [![stackOverflow](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://skillicons.dev) [Stack Overflow (Spanish)](https://es.stackoverflow.com/users/207561)
+ - [![stackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev) [Stack Overflow (English)](https://stackoverflow.com/users/15246430)
 
 ## 🛠️ Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,c,cpp,java)](https://skillicons.dev)
 
-- **Web Development Extras:**
-  - [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+**Web Development Extras:**
+ - [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## ⚙️ Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,electron)](https://skillicons.dev)
