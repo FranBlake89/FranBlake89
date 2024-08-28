@@ -18,7 +18,7 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
 [![My Skills](https://skillicons.dev/icons?i=js,python,c,cpp,java)](https://skillicons.dev)
 
 - **Web Development Extras:**
- - [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+  - [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## ⚙️ Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,electron)](https://skillicons.dev)
