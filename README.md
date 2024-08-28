@@ -10,14 +10,21 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
  I enjoy giving back to the community by offering assistance on technical forums:
  
 - Check out my contributions on **Stack Overflow**:
-  - [Stack Overflow (Spanish)](https://es.stackoverflow.com/users/207561)
-  - [Stack Overflow (English)](https://stackoverflow.com/users/15246430)
+  - [![stackOverflow](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://skillicons.dev) [Stack Overflow (Spanish)](https://es.stackoverflow.com/users/207561)
+  - [![stackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev) [Stack Overflow (English)](https://stackoverflow.com/users/15246430)
 
 ## 🛠️ Languages and Tools I Embrace
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,cpp,c,java,python,androidstudio,mongodb,postgresql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,js,html,css,react,nextjs,nodejs,express,cpp,c,java,python,androidstudio,mongodb,postgresql,linux,ubuntu,git,django,flask,nginx,electron,wordpress&perline=5)](https://skillicons.dev)
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
 </a>
 
+## ☁️ Cloud platforms
+I’ve worked with various cloud technologies to deploy and manage applications:
+[![Cloud Tech](https://skillicons.dev/icons?i=aws,gcp,cloudflare)](https://skillicons.dev)
+
+## 📊 Data Tools
+Data analysis and management are key aspects of my work:
+[![Cloud Tech](https://skillicons.dev/icons?i=anaconda,gcp,elasticsearch,latex,mysql,regex,sklearn)](https://skillicons.dev)
