@@ -15,7 +15,7 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
 
 ## 🛠️ Languages and Tools I Embrace
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,js,html,css,react,nextjs,nodejs,express,cpp,c,java,python,androidstudio,mongodb,postgresql,linux,ubuntu,git,django,flask,nginx,electron,wordpress&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,js,html,css,react,nextjs,nodejs,express,cpp,c,java,python,androidstudio,mongodb,postgresql,linux,ubuntu,git,django,flask,nginx,electron,wordpress&perline=7)](https://skillicons.dev)
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
@@ -23,8 +23,10 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
 
 ## ☁️ Cloud platforms
 I’ve worked with various cloud technologies to deploy and manage applications:
+
 [![Cloud Tech](https://skillicons.dev/icons?i=aws,gcp,cloudflare)](https://skillicons.dev)
 
 ## 📊 Data Tools
 Data analysis and management are key aspects of my work:
+
 [![Cloud Tech](https://skillicons.dev/icons?i=anaconda,gcp,elasticsearch,latex,mysql,regex,sklearn)](https://skillicons.dev)
