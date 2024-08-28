@@ -16,7 +16,7 @@ Hello! I'm Francisco Castillo, a passionate computer programming student who fin
 ## 🛠️ Languages and Tools I Embrace
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,js,html,css,react,nextjs,nodejs,express,cpp,c,java,python,androidstudio,mongodb,postgresql,linux,ubuntu,git,django,flask,nginx,electron,wordpress&perline=10)](https://skillicons.dev)
-<img src="https://icons8.com/icon/39913/oracle-logo" alt="oracle" width="40" height="40"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
 
 
 ## ☁️ Cloud platforms
