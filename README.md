@@ -1,37 +1,32 @@
+# 👋 Hello, I'm Francisco Castillo!
 
 🔭 *"Knowledge becomes truly valuable when it takes root in the learner's mind and blossoms in their character."*
 
-## 👋 Hey there, I'm Francisco Castillo
+I am a passionate about exploring new technologies and crafting innovative web applications, always willing to collaborate in new or old projects.
 
-Hello! I'm Francisco Castillo, a passionate computer programming student who finds joy in embracing new technologies and crafting web applications. 
+---
 
-## 📚 Sharing knowledge 
+<div align="center">
 
- I enjoy giving back to the community by offering assistance on technical forums:
- 
-Check out my contributions on **Stack Overflow**:
- - [![stackOverflow](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://skillicons.dev) [Stack Overflow (Spanish)](https://es.stackoverflow.com/users/207561)
- - [![stackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev) [Stack Overflow (English)](https://stackoverflow.com/users/15246430)
+### 🛠️ Technical Skills & Tools
 
-## 🛠️ Programming Languages
+| **Category**              | **Skills**                                                                                                                                      |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🛠️ **Languages**              | ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java)<br> JavaScript, Python, C, C++, Java |
+|👨🏽‍🎨 **Frontend Skills**        | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react)          <br> HTML, CSS, React <br> ![Next.js](https://skillicons.dev/icons?i=nextjs) <br> Next.js |
+|⚙️ **Backend & Frameworks**   | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) <br> Node.js, Express, Django <br> ![Flask](https://skillicons.dev/icons?i=flask) <br> Flask |
+|🗄️ **Databases**              | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) <br> MongoDB, PostgreSQL, MySQL <br> ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) <br> Oracle |
+|☁️ **Cloud & DevOps**         | ![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)  <br> AWS, Google Cloud, Cloudflare <br> ![NGINX](https://skillicons.dev/icons?i=nginx) ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) <br> NGINX, Git, Docker |
+|📊 **Data Science Tools**     | ![Anaconda](https://skillicons.dev/icons?i=anaconda) ![Scikit-learn](https://skillicons.dev/icons?i=sklearn) ![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch) <br> Anaconda, Scikit-learn, Elasticsearch <br> ![Regex](https://skillicons.dev/icons?i=regex) ![LaTeX](https://skillicons.dev/icons?i=latex) <br> Regex, LaTeX |
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,cpp,java)](https://skillicons.dev)
+</div>
 
-**Web Development Extras:**
- - [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+---
 
-## ⚙️ Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,electron)](https://skillicons.dev)
+## 📚 Community Contributions
 
-## 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
-![icons8-oracle-logo](https://github.com/user-attachments/assets/d3820718-7c8e-4ee4-88c6-d544770c2d58)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" width="48px" height="48px" fill-rule="nonzero"><g fill="#000000" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,256v-256h256v256z" id="bgRectangle"></path></g><g fill="#ef0f14" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.33333,5.33333)"><path d="M2.861,21.998h2.917c1.05,0 2.261,0.896 2.261,2c0,1.104 -1.21,2 -2.261,2h-2.917c-1.05,0 -1.861,-0.895 -1.861,-2c0,-1.105 0.811,-2 1.861,-2zM43.021,20.998c-1.401,0 -2.521,1.343 -2.521,3c0,1.657 1.13,3 2.521,3h4.019l0.96,-1h-5c-0.898,-0.047 -1.289,-0.638 -1.5,-1.5h5.54l0.96,-1h-6.5c0.213,-0.861 0.592,-1.495 1.5,-1.5h4.04l0.96,-1zM34,20.998v5.426c0,0.148 0.095,0.292 0.201,0.402c0.106,0.11 0.249,0.172 0.405,0.172l3.934,0.002l1,-1l-4.54,-0.002v-4.998zM27.842,20.998c-1.591,0 -2.851,1.346 -2.851,3.003c0,1.657 1.26,2.997 2.851,2.997l3.649,-0.012l1.149,-0.988h-4.819c-1.05,0 -1.84,-0.894 -1.84,-1.999c0,-1.105 0.79,-2.001 1.84,-2.001l3.689,0.016l1.13,-1.016zM21,20.998c-0.258,0 -0.522,0.215 -0.67,0.483l-2.83,5.517h1l2.5,-5l1.691,3h-2.651l0.941,0.98l2.181,-0.006l0.658,1.025l1.081,-0.009l-3.277,-5.507c-0.23,-0.369 -0.374,-0.483 -0.624,-0.483zM10,20.998v6h1v-5h3c0.515,0 1,0.464 1,1c0,0.536 -0.485,1 -1,1h-2.5l3.481,3h1.519l-2.5,-2l0.337,-0.009c0.74,0.001 1.663,-0.87 1.663,-1.991c0,-1.121 -0.687,-1.986 -1.553,-2zM2.882,20.998c-1.591,0 -2.882,1.344 -2.882,3c0,1.656 1.291,3 2.882,3h2.878c1.591,0 3.24,-1.343 3.24,-3c0,-1.657 -1.649,-3 -3.24,-3z"></path></g></g></svg>
+I'm passionate about helping others and sharing knowledge through technical communities. You can find my contributions on **Stack Overflow**:
 
-## ☁️ Cloud and DevOps
+- [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://es.stackoverflow.com/users/207561) [Spanish Stack Overflow](https://es.stackoverflow.com/users/207561)
+- [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/15246430) [English Stack Overflow](https://stackoverflow.com/users/15246430)
 
-[![Cloud Tech](https://skillicons.dev/icons?i=aws,gcp,cloudflare,nginx,linux,ubuntu,git)](https://skillicons.dev)
-
-## 📊 Data Science and Analytics Tools
-Data analysis and management are key aspects of my work:
-
-[![Cloud Tech](https://skillicons.dev/icons?i=anaconda,elasticsearch,latex,regex,sklearn)](https://skillicons.dev)
