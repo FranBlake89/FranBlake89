@@ -1,21 +1,32 @@
-## 👋 Hi, I’m Francisco Castillo
+<h2 align="center">Hey! I'm Francisco</h2>
 
-I’m a data scientist currently working on applied projects focused on **biological pest dispersion forecasting** and **economical studies**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80"/>
+</p>
 
-I have hands-on experience taking data from raw sources to actionable insights, combining **statistical methods, geospatial analysis, and machine learning** to support decision-making in complex, data-driven environments.
+<p align="center">
+  I’m a data scientist who enjoys working with real-world data and messy problems.
+</p>
 
-## 🛠️ Technical Skills
+<p align="center">
+  I like taking raw data, poking at it, breaking it, understanding it, and eventually turning it into something useful using 
+  <strong>statistics, geospatial analysis, and machine learning</strong>.
+</p>
+
+<hr>
+
+<h2 align="center">🛠️ Stuff I work with</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <strong>📊 Data Science & Machine Learning</strong><br><br>
+      <strong>📊 Data Science & ML</strong><br><br>
       <img src="https://skillicons.dev/icons?i=python" height="32"/>
       <img src="https://skillicons.dev/icons?i=sklearn" height="32"/>
       <img src="https://skillicons.dev/icons?i=anaconda" height="32"/>
       <img src="https://skillicons.dev/icons?i=regex" height="32"/><br><br>
-      Python, Pandas, NumPy, Scikit-learn<br>
-      Statistical modeling, ML, neural networks
+      Python · Pandas · NumPy<br>
+      Statistical models, ML, neural networks
     </td>
     <td align="center" width="50%">
       <strong>🗺️ Geospatial & Analytics</strong><br><br>
@@ -27,17 +38,17 @@ I have hands-on experience taking data from raw sources to actionable insights, 
   </tr>
   <tr>
     <td align="center">
-      <strong>🗄️ Databases & Data Platforms</strong><br><br>
+      <strong>🗄️ Data & Databases</strong><br><br>
       <img src="https://skillicons.dev/icons?i=postgresql" height="32"/>
       <img src="https://skillicons.dev/icons?i=mysql" height="32"/>
       <img src="https://img.icons8.com/color/48/oracle-logo.png" height="32"/>
       <img src="https://skillicons.dev/icons?i=mongodb" height="32"/><br><br>
-      PostgreSQL, MySQL, Oracle, MongoDB<br>
-      Advanced SQL<br>
+      PostgreSQL · MySQL · Oracle · MongoDB<br>
+      SQL for analytics<br>
       Microsoft Fabric
     </td>
     <td align="center">
-      <strong>⚙️ Backend, Cloud & Tools</strong><br><br>
+      <strong>⚙️ Backend & Cloud (supporting tools)</strong><br><br>
       <img src="https://skillicons.dev/icons?i=flask" height="32"/>
       <img src="https://skillicons.dev/icons?i=django" height="32"/>
       <img src="https://skillicons.dev/icons?i=nodejs" height="32"/>
@@ -49,10 +60,19 @@ I have hands-on experience taking data from raw sources to actionable insights, 
   </tr>
 </table>
 
+<hr>
 
-## 📚 Community & Knowledge Sharing
+<h2 align="center">📚 Community & Sharing</h2>
 
-I actively contribute to technical communities by sharing practical solutions and best practices:
+<p align="center">
+  I like helping others and learning along the way, so I’m trying to be active on Stack Overflow (yep, old fashion way):
+</p>
 
-- **Stack Overflow Español:** https://es.stackoverflow.com/users/207561  
-- **Stack Overflow (EN):** https://stackoverflow.com/users/15246430  
+<p align="center">
+  🇪🇸 <a href="https://es.stackoverflow.com/users/207561">Stack Overflow en Español</a><br>
+  🌍 <a href="https://stackoverflow.com/users/15246430">Stack Overflow (English)</a>
+</p>
+
+<p align="center">
+  If you’re into data, models, or just breaking things to understand them better — we’ll probably get along.
+</p>
