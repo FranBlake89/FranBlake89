@@ -1,21 +1,15 @@
-<h2 align="center">Hey! I'm Francisco</h2>
+<h2 align="left">Hey! I'm Francisco</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80"/>
-</p>
-
-<p align="center">
+<p align="left">
   I’m a data scientist who enjoys working with real-world data and messy problems.
 </p>
 
-<p align="center">
+<p align="left">
   I like taking raw data, poking at it, breaking it, understanding it, and eventually turning it into something useful using 
   <strong>statistics, geospatial analysis, and machine learning</strong>.
 </p>
 
-<hr>
-
-<h2 align="center">🛠️ Stuff I work with</h2>
+<h2 align="left">🛠️ Stuff I work with</h2>
 
 <table align="center">
   <tr>
@@ -60,19 +54,17 @@
   </tr>
 </table>
 
-<hr>
+<h2 align="left">📚 Community & Sharing</h2>
 
-<h2 align="center">📚 Community & Sharing</h2>
-
-<p align="center">
+<p align="left">
   I like helping others and learning along the way, so I’m trying to be active on Stack Overflow (yep, old fashion way):
 </p>
 
-<p align="center">
+<p align="left">
   🇪🇸 <a href="https://es.stackoverflow.com/users/207561">Stack Overflow en Español</a><br>
   🌍 <a href="https://stackoverflow.com/users/15246430">Stack Overflow (English)</a>
 </p>
 
-<p align="center">
+<p align="left">
   If you’re into data, models, or just breaking things to understand them better — we’ll probably get along.
 </p>
