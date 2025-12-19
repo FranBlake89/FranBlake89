@@ -15,7 +15,7 @@ I have hands-on experience taking data from raw sources to actionable insights, 
 - Statistical modeling, machine learning, neural networks  
 
 ### 🗺️ Geospatial & Analytics
-<img src="https://img.icons8.com/color/48/qgis.png" height="32"/>
+<img src="https://www.geonov.fr/img/qgis/qgis-logo-small.png" height="32"/>
 
 - QGIS  
 - Geostatistics and spatial-temporal analysis  
@@ -28,8 +28,13 @@ I have hands-on experience taking data from raw sources to actionable insights, 
 - Microsoft Fabric  
 
 ### ⚙️ Backend, Cloud & Tools (supporting skills)
-<img src="https://skillicons.dev/icons?i=flask" height="32"/> <img src="https://skillicons.dev/icons?i=django" height="32"/> <img src="https://skillicons.dev/icons?i=nodejs" height="32"/> <img src="https://skillicons.dev/icons?i=aws" height="32"/> 
+<img src="https://skillicons.dev/icons?i=flask" height="32"/> <img src="https://skillicons.dev/icons?i=django" height="32"/> <img src="https://skillicons.dev/icons?i=nodejs" height="32"/> <img src="https://skillicons.dev/icons?i=aws" height="32"/> <img src="https://skillicons.dev/icons?i=azure" height="32"/>
 
+- Flask
+- Django
+- Nodejs
+- AWS
+- Azure
 ## 📚 Community & Knowledge Sharing
 
 I actively contribute to technical communities by sharing practical solutions and best practices:
